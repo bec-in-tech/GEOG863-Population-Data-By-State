@@ -29,10 +29,10 @@ Overall, this project serves as a comprehensive example of leveraging the ArcGIS
 
 ![image](https://github.com/bec-in-tech/GEOG863-Population-Data-By-State/assets/120440399/2dfdc901-8688-407a-b36c-d89a703d4f27)
 
-This interactive map can also be viewed at CodePen:
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="LYJwZJE" data-user="rmu5072" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/rmu5072/pen/LYJwZJE">
   Lesson 6 ClassBreakRenderer</a> by Rebecca U (<a href="https://codepen.io/rmu5072">@rmu5072</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
+
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
