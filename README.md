@@ -4,7 +4,7 @@
 
 This project utilizes the ArcGIS API for JavaScript to visualize and analyze population data across different states in the United States. The primary objectives are to retrieve and display vector data from an external service, apply a custom renderer for visualizing population percentages, configure informative popups programmatically, and integrate a legend for enhanced map interpretation.
 
-Key Features and Components:
+<b>Key Features and Components:</b>
 
 1. Loading Required Modules: The project begins by loading essential modules such as the Map, MapView, FeatureLayer, SimpleRenderer, SimpleFillSymbol, and Legend from the ArcGIS API for JavaScript.
 
