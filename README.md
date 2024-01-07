@@ -1,4 +1,4 @@
-# GEOG863 - Displaying Population by State Using ClassBreakRenderer
+# GEOG863 - Displaying Population Data by State Using ClassBreakRenderer
 
 <b>Project Description:</b> 
 <br>Displaying Population Data by State (Percent of Population in Dependent Age Groups Under 18 and 65+)
