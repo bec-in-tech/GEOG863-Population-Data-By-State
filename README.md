@@ -34,5 +34,3 @@ Overall, this project serves as a comprehensive example of leveraging the ArcGIS
   Lesson 6 ClassBreakRenderer</a> by Rebecca U (<a href="https://codepen.io/rmu5072">@rmu5072</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
