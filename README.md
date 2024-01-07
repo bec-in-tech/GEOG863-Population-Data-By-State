@@ -1,7 +1,7 @@
-# GEOG863 - Displaying Population Data by State Using ClassBreakRenderer
+# GEOG863: Displaying Population Data by State Using ClassBreakRenderer
 
 <b>Project Description:</b> 
-<br>Displaying Population Data by State (Percent of Population in Dependent Age Groups Under 18 and 65+)
+<b><br>Displaying Population Data by State (Percent of Population in Dependent Age Groups Under 18 and 65+)</b>
 
 This project utilizes the ArcGIS API for JavaScript to visualize and analyze population data across different states in the United States. The primary objectives are to retrieve and display vector data from an external service, apply a custom renderer for visualizing population percentages, configure informative popups programmatically, and integrate a legend for enhanced map interpretation.
 
